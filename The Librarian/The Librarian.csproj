@@ -55,43 +55,44 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="BookList.cs" />
+    <Compile Include="Classes\BookList.cs" />
+    <Compile Include="Classes\HighScoreList.cs" />
     <Compile Include="DataSet1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DataSet1.xsd</DependentUpon>
     </Compile>
-    <Compile Include="Find Call Number.xaml.cs">
+    <Compile Include="Windows\Find Call Number.xaml.cs">
       <DependentUpon>Find Call Number.xaml</DependentUpon>
     </Compile>
-    <Compile Include="generateBooks.cs" />
-    <Compile Include="Identify areas.xaml.cs">
+    <Compile Include="Classes\generateBooks.cs" />
+    <Compile Include="Windows\Identify areas.xaml.cs">
       <DependentUpon>Identify areas.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Replace books.xaml.cs">
+    <Compile Include="Windows\Replace books.xaml.cs">
       <DependentUpon>Replace books.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Sign-Up.xaml.cs">
+    <Compile Include="Windows\Sign-Up.xaml.cs">
       <DependentUpon>Sign-Up.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Splash-Screen.xaml.cs">
+    <Compile Include="Windows\Splash-Screen.xaml.cs">
       <DependentUpon>Splash-Screen.xaml</DependentUpon>
     </Compile>
-    <Compile Include="User.cs" />
-    <Compile Include="UserList.cs" />
-    <Page Include="Find Call Number.xaml">
+    <Compile Include="Classes\User.cs" />
+    <Compile Include="Classes\UserList.cs" />
+    <Page Include="Windows\Find Call Number.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Identify areas.xaml">
+    <Page Include="Windows\Identify areas.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Login.xaml">
+    <Page Include="Windows\Login.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MainWindow.xaml">
+    <Page Include="Windows\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -99,22 +100,22 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Login.xaml.cs">
+    <Compile Include="Windows\Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="Windows\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Replace books.xaml">
+    <Page Include="Windows\Replace books.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Sign-Up.xaml">
+    <Page Include="Windows\Sign-Up.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Splash-Screen.xaml">
+    <Page Include="Windows\Splash-Screen.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

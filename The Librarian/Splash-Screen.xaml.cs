@@ -23,5 +23,10 @@ namespace The_Librarian
         {
             InitializeComponent();
         }
+        public double Progress
+        {
+            get { return progressBar.Value; }
+            set { progressBar.Value = value; }
+        }
     }
 }

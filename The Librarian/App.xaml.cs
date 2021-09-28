@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using The_Librarian.Windows;
 
 namespace The_Librarian
 {
@@ -43,9 +44,9 @@ namespace The_Librarian
                 {
                     //initialize the main window, set it as the application main window
                     //and close the splash screen
-                    var mainWindow = new MainWindow();
-                    this.MainWindow = mainWindow;
-                    mainWindow.Show();
+                    var login = new Login();
+                    this.MainWindow = login;
+                    login.Show();
                     splashScreen.Close();
                 });
             });;  

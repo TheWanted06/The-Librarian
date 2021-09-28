@@ -8,27 +8,19 @@ namespace The_Librarian
 {
     public class User
     {
-
         public string FirstName { get; set; }
         public string Surname { get; set; }
+        public string email { get; set; }
         public string Username { get; set; }
-        public int Score { get; set; }
-        public int Level { get; set; }
+        public string password { get; set; }
 
-        public User(string Fname, string Sname, string username)
+        public User(string Fname, string Sname, string username, string email, string password)
         {
             this.FirstName = Fname;
             this.Surname = Sname;
             this.Username = username;
-            Level = 0;
-            Score = 0;
-        }
-        public User()
-        {
-            this.FirstName = null;
-            this.Surname = null;
-            this.Score = 0;
-            this.Level = 0;
+            this.email = email;
+            this.password = password;
         }
     }
 }

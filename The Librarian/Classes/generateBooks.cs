@@ -14,7 +14,7 @@ namespace The_Librarian
             return Convert.ToDouble(randNumber.ToString("f" + decimalPlaces));
         }
 
-        public static void generate()
+        public static BookList<double> generate()
         {
             int No_Of_Books = 10;
             Random rand = new Random();
@@ -26,7 +26,7 @@ namespace The_Librarian
                 randNumber = NextDouble(rand, 000.00, 999.999, 3); // Round to 3 decimal places
                 newBookList.Add(randNumber);
             }
-            
+            return newBookList;
         }
     }
 }

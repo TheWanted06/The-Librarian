@@ -23,8 +23,10 @@ namespace The_Librarian
             public BookNode(T element, BookNode prevNode, BookNode nextNode)
             {
                 this.Element = element;
+                //this.NextBook =nextNode;
+                nextNode.PreviousBook= this;
                 prevNode.NextBook = this;
-                this.PreviousBook = prevNode;
+                //this.PreviousBook = prevNode;
             }
         }
         private int count;
@@ -46,7 +48,7 @@ namespace The_Librarian
             {
                 // We have an empty list -> create a new head and tail
                 this.head = new BookNode(item);
-                this.tail = new BookNode(item);
+                this.tail = this.head;
             }
             else
             {

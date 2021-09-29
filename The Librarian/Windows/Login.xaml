@@ -5,29 +5,38 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:The_Librarian.Windows"
         mc:Ignorable="d"
-        Title="Login" Height="450" Width="800" Closing="Window_Closing" WindowStartupLocation="CenterScreen">
-    <Grid>
-        <StackPanel VerticalAlignment="Center" Background="LightGray"  Width="300">
-            <Label Content="The Librarian" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" Margin="10"/>
-            <StackPanel Height="280" VerticalAlignment="Center" HorizontalAlignment="Center" Width="266">
+        Title="Login" Height="387" Width="528" Closing="Window_Closing" WindowStartupLocation="CenterScreen">
+    <Grid Height="350" Width="525" Background="Bisque">
+        <StackPanel VerticalAlignment="Center" >
+            <Label Content="The Librarian" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" />
+            
 
-                <Label Content="Please login" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0"/>
+            <Grid Margin="31,0,29,0" Background="White" Height="150" Width="269" VerticalAlignment="Bottom">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
 
-                <Label Content="Username" HorizontalAlignment="Center"  VerticalAlignment="Top" Margin="0,10,55,0"/>
-                <TextBox x:Name="tbUsername" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" Width="120"/>
-                <Label Content="Password" HorizontalAlignment="Center"  VerticalAlignment="Top" Margin="0,20,58,0"/>
-                <TextBox x:Name="tbPassword" HorizontalAlignment="Center" Height="24" TextWrapping="Wrap" Width="120" Margin="0,0,0,10"/>
-
-                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
-                    <Button x:Name="BtLogin" Content="Login" Height="20" Width="40" Margin="10,0" Click="BtLogin_Click"/>
-                    <Button x:Name="BtCancel" Content="Cancel" Height="20" Width="40" Margin="10,0" Click="BtCancel_Click"/>
+                <Label x:Name="Error" Content="Please Login" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="14" />
+                <Label Content="Email" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="20,5,0,0"/>
+                <TextBox x:Name="tbEmail" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" Width="120" BorderBrush="Black"/>
+                <Label Content="Password" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="20,5,0,0"/>
+                <PasswordBox  x:Name="tbPassword" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" Height="24" Width="120" BorderBrush="Black" />
+                
+                <StackPanel Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+                    <Button x:Name="BtLogin" Content="Login" Height="30" Width="60" Margin="10,0" Click="BtLogin_Click" FontSize="16"/>
+                    <Button x:Name="BtCancel" Content="Cancel" Height="30" Width="60" Margin="10,0" Click="BtCancel_Click" FontSize="16"/>
                 </StackPanel>
-
-                <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Bottom">
-                    <Label Content="if you don't have an account. Sign up" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
-                    <Button x:Name="BtnSignUp" Content="Here" Height="20" Width="60" Foreground="#FF0A6091" Background="AliceBlue" Click="BtnSignUp_Click" />
-                </StackPanel>
-
+            </Grid>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+                <Label Content="if you don't have an account. Sign up" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                <Button x:Name="BtnSignUp" Content="Here" Height="20" Width="60" Foreground="#FF0A6091" Background="AliceBlue" Click="BtnSignUp_Click" />
             </StackPanel>
         </StackPanel>
     </Grid>

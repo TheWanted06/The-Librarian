@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid>
         <Label Content="Welcome" HorizontalAlignment="Left" Margin="304,77,0,0" VerticalAlignment="Top" FontFamily="Broadway"/>
+        <Label x:Name="lbName" Content="Label" HorizontalAlignment="Left" Margin="349,153,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

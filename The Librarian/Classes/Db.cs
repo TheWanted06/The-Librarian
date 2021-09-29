@@ -13,7 +13,7 @@ namespace The_Librarian.Classes
     /// <summary>
     /// 
     /// </summary>
-    class Db
+    public class Db
     {
         public static SqlConnection Get_DB_Connection()
         {
@@ -27,15 +27,15 @@ namespace The_Librarian.Classes
             return cn_connection;
         }
 
-        public static DataTable Get_DataTable(string SQL_Text)
+        public static DataSet Get_DataTable(string SQL_Text)
         {
             SqlConnection cn_connection = Get_DB_Connection();
 
-            DataTable table = new DataTable();
+            DataSet set = new DataSet();
             SqlDataAdapter adapter = new SqlDataAdapter(SQL_Text, cn_connection);
-            adapter.Fill(table);
+            adapter.Fill(set);
 
-            return table;
+            return set;
         }
 
         public static void Execute_SQL(string SQL_Text)

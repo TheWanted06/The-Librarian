@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -14,6 +16,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using The_Librarian;
+using The_Librarian.Classes;
 using The_Librarian.Windows;
 
 namespace The_Librarian
@@ -30,40 +33,60 @@ namespace The_Librarian
         
         private void BtSignUp_Click(object sender, RoutedEventArgs e)
         {
-            string theName = tbName.Text;
-            string theSurname = tbSurname.Text;
             string theEmail = tbEmail.Text;
-            string theUsername = tbUsername.Text;
-            string thePassword = tbPassword.Text;
-            User newUser = new User(theName, theSurname, theUsername, theEmail, thePassword);
-            AddUser(newUser);
+
+            if (theEmail.Length == 0 )
+            {
+                tbError.Content = "Enter a Email";
+                tbEmail.Focus();
+            }
+            else if (!Regex.IsMatch(tbEmail.Text, @"^[a-zA-Z][\w\.-]*[a-zA-Z0-9]@[a-zA-Z0-9][\w\.-]*[a-zA-Z0-9]\.[a-zA-Z][a-zA-Z\.]*[a-zA-Z]$"))
+            {
+                tbError.Content = "Enter a valid email.";
+                tbEmail.Select(0, tbEmail.Text.Length);
+                tbEmail.Focus();
+            }
+            else
+            {
+                string theName = tbName.Text;
+                string theSurname = tbSurname.Text;
+                string theUsername = tbUsername.Text;
+                string thePassword = tbPassword.Password;
+                string theConfirmedPassword = tbConfirmPassword.Password;
+                string theError = tbError.Content.ToString();
+
+                if (thePassword.Length == 0)
+                {
+                    tbError.Content = "Enter password.";
+                    tbPassword.Focus();
+                }
+                else if (theConfirmedPassword.Length == 0)
+                {
+                    tbError.Content = "Enter Confirm password.";
+                    tbConfirmPassword.Focus();
+                }
+                else if (thePassword != theConfirmedPassword)
+                {
+                    tbError.Content = "Confirm password must be same as password.";
+                    tbConfirmPassword.Focus();
+                }
+                else
+                {
+                    tbError.Content = "";
+                    User newUser = new User(theName, theSurname, theUsername, theEmail, thePassword);
+                    AddUser(newUser);
+                }
+            }
         }
 
         private void AddUser(User newUser)
         {
             try
             {
-                string connectionString;
-                SqlConnection cnn;
-
-                connectionString = ConfigurationManager.ConnectionStrings["AutoBotSqlProvider"].ConnectionString;
-                cnn = new SqlConnection(connectionString);
-
-                cnn.Open();
-
-                SqlCommand command;
-                SqlDataAdapter adapter = new SqlDataAdapter();
-                String sql = "";
-
-                sql = ($"insert into Users(FirstName,SurName,Email,Username,Password) values({newUser.FirstName},{newUser.Surname},{newUser.email},{newUser.Username},{newUser.password})");
-                command = new SqlCommand(sql, cnn);
-
-                adapter.InsertCommand = new SqlCommand(sql, cnn);
-                adapter.InsertCommand.ExecuteNonQuery();
-
-                command.Dispose();
-                cnn.Close();
+                string sql = ($"Insert into Users(FirstName,SurName,Email,Username,Password) values({newUser.FirstName},{newUser.Surname},{newUser.email},{newUser.Username},{newUser.password})");
+                Db.Execute_SQL(sql);
                 Redirect();
+                Db.Close_DB_Connection();
 
             }
             catch (Exception ex)

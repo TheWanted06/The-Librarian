@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="Replace_books" Height="450" Width="800">
     <Grid>
-        
+        <ListView HorizontalAlignment="Left" Height="267" Margin="102,82,0,0" VerticalAlignment="Top" Width="235">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
     </Grid>
 </Window>

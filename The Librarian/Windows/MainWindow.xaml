@@ -5,10 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:The_Librarian"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
-    <Grid>
-        <Label Content="Welcome" HorizontalAlignment="Left" Margin="304,77,0,0" VerticalAlignment="Top" FontFamily="Broadway"/>
-        <Label x:Name="lbName" Content="Label" HorizontalAlignment="Left" Margin="349,153,0,0" VerticalAlignment="Top"/>
+        Title="MainWindow" Height="387" Width="528" Closing="Window_Closing" WindowStartupLocation="CenterScreen">
+    <Grid Height="350" Width="525" Background="Bisque" >
 
+        <Grid Height="200" Width="300" Background="White">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Content="Welcome" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontFamily="Broadway" FontSize="16"/>
+            <Label Grid.Row="1" x:Name="lbName" Content="What would you like to do?" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
+            <Button Grid.Row="2" x:Name="btReplacing" Content="Replacing books" Height="30" Width="200" Margin="10,0" Click="btReplacing_Click" FontSize="16"/>
+            <Button Grid.Row="3" x:Name="btIndentify" Content="Identify areas" Height="30" Width="200" Margin="10,0" Click="BtLogin_Click" FontSize="16" IsEnabled="False"/>
+            <Button Grid.Row="4" x:Name="btFinding" Content="Finding calling number" Height="30" Width="200" Margin="10,0" Click="BtLogin_Click" FontSize="16" IsEnabled="False"/>
+
+        </Grid>
     </Grid>
 </Window>

@@ -24,6 +24,12 @@ namespace The_Librarian
         {
             InitializeComponent();
         }
-        
+
+        private void btReplacing_Click(object sender, RoutedEventArgs e)
+        {
+            Replace_books replace_ = new Replace_books();
+            replace_.Show();
+            this.Hide();
+        }
     }
 }

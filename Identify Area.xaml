@@ -1,0 +1,41 @@
+﻿<Window x:Class="testing.Identify_Area"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:testing"
+        mc:Ignorable="d"
+        Title="Identify_Area" Height="450" Width="800">
+    <Grid Background="Bisque">
+
+        <Grid Margin="50" Background="#FFDDDDDD">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="120" />
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+
+            <ListView x:Name="matchinglv1" Grid.Row="1" IsEnabled="False" HorizontalAlignment="Center" Height="209" Width="150"/>
+            <ListView x:Name="matchinglv2" Grid.Row="1" Grid.Column="1" IsEnabled="False" HorizontalAlignment="Center" Height="209" Width="150"/>
+
+            <ListView x:Name="matchinglv3" Grid.Row="1" Grid.Column="3" IsEnabled="False" HorizontalAlignment="Center" Height="209" Width="150"/>
+
+            <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center">
+                <Button Grid.Row="2" Grid.Column="0" x:Name="btPair" Content="Pair" Height="30" Width="100" IsEnabled="False"  Click="btPair_Click" FontSize="16" Background="White" BorderBrush="Black"/>
+                <Button Grid.Row="2" Grid.Column="0" x:Name="btUnPair" Content="unPair" Height="30" Width="100" IsEnabled="False" Click="btUnPair_Click" FontSize="16" Background="White" BorderBrush="Black"/>
+            </StackPanel>
+            
+            <Button Grid.Row="2" Grid.Column="0" x:Name="btStart" Content="Start" Height="30" Width="100"  Click="btStart_Click" FontSize="16" Background="White" BorderBrush="Black"/>
+            <Button Grid.Row="2" Grid.Column="1" x:Name="btNextQuestions" Content="Next" Height="30" Width="100" IsEnabled="False" Click="btNextQuestions_Click" FontSize="16" Background="White" BorderBrush="Black"/>
+            <Button Grid.Row="2" Grid.Column="3" x:Name="btFinish" Content="Finish" Height="30" Width="100" IsEnabled="False" Click="btFinish_Click" FontSize="16" Background="White" BorderBrush="Black"/>
+
+        </Grid>
+
+    </Grid>
+</Window>

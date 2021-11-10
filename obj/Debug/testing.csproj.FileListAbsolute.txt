@@ -1,0 +1,17 @@
+C:\Users\tship\source\repos\testing\bin\Debug\testing.exe.config
+C:\Users\tship\source\repos\testing\bin\Debug\testing.exe
+C:\Users\tship\source\repos\testing\bin\Debug\testing.pdb
+C:\Users\tship\source\repos\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\tship\source\repos\testing\obj\Debug\MainWindow.g.cs
+C:\Users\tship\source\repos\testing\obj\Debug\Replace books.g.cs
+C:\Users\tship\source\repos\testing\obj\Debug\App.g.cs
+C:\Users\tship\source\repos\testing\obj\Debug\testing_MarkupCompile.cache
+C:\Users\tship\source\repos\testing\obj\Debug\testing_MarkupCompile.lref
+C:\Users\tship\source\repos\testing\obj\Debug\MainWindow.baml
+C:\Users\tship\source\repos\testing\obj\Debug\Replace books.baml
+C:\Users\tship\source\repos\testing\obj\Debug\testing.g.resources
+C:\Users\tship\source\repos\testing\obj\Debug\testing.Properties.Resources.resources
+C:\Users\tship\source\repos\testing\obj\Debug\testing.csproj.GenerateResource.cache
+C:\Users\tship\source\repos\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\tship\source\repos\testing\obj\Debug\testing.exe
+C:\Users\tship\source\repos\testing\obj\Debug\testing.pdb

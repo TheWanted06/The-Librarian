@@ -1,0 +1,74 @@
+C:\Users\tship\source\repos\testing\obj\Debug\The Librarian.csprojAssemblyReference.cache
+C:\Users\tship\source\repos\testing\obj\Debug\MainWindow.g.cs
+C:\Users\tship\source\repos\testing\obj\Debug\Replace books.g.cs
+C:\Users\tship\source\repos\testing\obj\Debug\App.g.cs
+C:\Users\tship\source\repos\testing\obj\Debug\testing_Content.g.cs
+C:\Users\tship\source\repos\testing\obj\Debug\testing_MarkupCompile.cache
+C:\Users\tship\source\repos\testing\obj\Debug\testing_MarkupCompile.lref
+C:\Users\tship\source\repos\testing\obj\Debug\testing.exe
+C:\Users\tship\source\repos\testing\obj\Debug\testing.pdb
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\bin\Debug\testing.exe.config
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\bin\Debug\testing.exe
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\bin\Debug\testing.pdb
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\The Librarian.csprojAssemblyReference.cache
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\MainWindow.g.cs
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\Replace books.g.cs
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\App.g.cs
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\testing_MarkupCompile.cache
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\testing_MarkupCompile.lref
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\MainWindow.baml
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\Replace books.baml
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\testing.g.resources
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\testing.Properties.Resources.resources
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\The Librarian.csproj.GenerateResource.cache
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\The Librarian.csproj.CoreCompileInputs.cache
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\testing.exe
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task1\The Librarian\obj\Debug\testing.pdb
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task2\The Librarian\obj\Debug\The Librarian.csprojAssemblyReference.cache
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task2\The Librarian\obj\Debug\MainWindow.g.cs
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task2\The Librarian\obj\Debug\Replace books.g.cs
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task2\The Librarian\obj\Debug\App.g.cs
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task2\The Librarian\obj\Debug\testing_MarkupCompile.cache
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task2\The Librarian\obj\Debug\testing_MarkupCompile.lref
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task2\The Librarian\obj\Debug\testing.exe
+C:\Users\19331512\OneDrive - Varsity College\School\Material\BCAD3\Semester 2\PROG(3B)\POE\Task2\The Librarian\obj\Debug\testing.pdb
+C:\Users\19331512\source\repos\The Librarian\bin\Debug\testing.exe.config
+C:\Users\19331512\source\repos\The Librarian\bin\Debug\testing.exe
+C:\Users\19331512\source\repos\The Librarian\bin\Debug\testing.pdb
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\The Librarian.csprojAssemblyReference.cache
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\MainWindow.g.cs
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\Replace books.g.cs
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\App.g.cs
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\testing_MarkupCompile.cache
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\testing_MarkupCompile.lref
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\MainWindow.baml
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\Replace books.baml
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\testing.g.resources
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\testing.Properties.Resources.resources
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\The Librarian.csproj.GenerateResource.cache
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\The Librarian.csproj.CoreCompileInputs.cache
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\testing.exe
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\testing.pdb
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\Results1.g.cs
+C:\Users\19331512\source\repos\The Librarian\obj\Debug\Results1.baml
+F:\Prog 3b\Task2\The Samw\The Librarian\bin\Debug\testing.exe.config
+F:\Prog 3b\Task2\The Samw\The Librarian\bin\Debug\testing.exe
+F:\Prog 3b\Task2\The Samw\The Librarian\bin\Debug\testing.pdb
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\The Librarian.csprojAssemblyReference.cache
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\Identify Area.g.cs
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\MainWindow.g.cs
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\Replace books.g.cs
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\Results1.g.cs
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\App.g.cs
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\testing_MarkupCompile.cache
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\testing_MarkupCompile.lref
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\Identify Area.baml
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\MainWindow.baml
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\Replace books.baml
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\Results1.baml
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\testing.g.resources
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\testing.Properties.Resources.resources
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\The Librarian.csproj.GenerateResource.cache
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\The Librarian.csproj.CoreCompileInputs.cache
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\testing.exe
+F:\Prog 3b\Task2\The Samw\The Librarian\obj\Debug\testing.pdb

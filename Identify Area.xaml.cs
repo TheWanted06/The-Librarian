@@ -53,8 +53,8 @@ namespace testing
                 }
                 randomNumbers.Add(index1);
             }
-            List<int> callingNumberList = new List<int>(3);
-            List<string> descriptions = new List<string>(7);
+            List<int> callingNumberList = new List<int>();
+            List<string> descriptions = new List<string>();
 
             int thenum = 1;
             int calling;

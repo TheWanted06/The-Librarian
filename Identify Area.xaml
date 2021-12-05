@@ -23,7 +23,6 @@
 
             <ListView x:Name="matchinglv1" Grid.Row="1" IsEnabled="False" HorizontalAlignment="Center" Height="209" Width="150"/>
             <ListView x:Name="matchinglv2" Grid.Row="1" Grid.Column="1" IsEnabled="False" HorizontalAlignment="Center" Height="209" Width="150"/>
-
             <ListView x:Name="matchinglv3" Grid.Row="1" Grid.Column="3" IsEnabled="False" HorizontalAlignment="Center" Height="209" Width="150"/>
 
             <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center">

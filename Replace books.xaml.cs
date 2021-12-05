@@ -30,7 +30,7 @@ namespace testing
         {
             InitializeComponent();
             btStart.IsEnabled = true;
-            List<double> oldlist = generateBooks.generate();
+            List<double> oldlist = generate.Books();
             this.List1.ItemsSource = oldlist;
         }
         /*

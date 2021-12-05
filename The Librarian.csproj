@@ -70,7 +70,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Classes\generateBooks.cs" />
+    <Compile Include="Classes\generate.cs" />
+    <Compile Include="Classes\LoadList.cs" />
+    <Compile Include="Classes\StopWatch.cs" />
+    <Compile Include="Classes\Timer.cs" />
     <Compile Include="Identify Area.xaml.cs">
       <DependentUpon>Identify Area.xaml</DependentUpon>
     </Compile>

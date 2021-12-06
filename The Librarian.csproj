@@ -70,10 +70,16 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Classes\Book.cs" />
+    <Compile Include="Classes\TreeNode.cs" />
     <Compile Include="Classes\generate.cs" />
     <Compile Include="Classes\LoadList.cs" />
     <Compile Include="Classes\StopWatch.cs" />
     <Compile Include="Classes\Timer.cs" />
+    <Compile Include="Classes\Tree.cs" />
+    <Compile Include="Finding_Call_Number.xaml.cs">
+      <DependentUpon>Finding_Call_Number.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Identify Area.xaml.cs">
       <DependentUpon>Identify Area.xaml</DependentUpon>
     </Compile>
@@ -84,6 +90,10 @@
       <DependentUpon>Results1.xaml</DependentUpon>
     </Compile>
     <Compile Include="Classes\theDictionary.cs" />
+    <Page Include="Finding_Call_Number.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Identify Area.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

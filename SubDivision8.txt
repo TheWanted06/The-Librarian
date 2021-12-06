@@ -1,0 +1,101 @@
+800 Literature & rhetoric
+801 Philosophy & theory
+802 Miscellany
+803 Dictionaries & encyclopedias
+804 Not assigned or no longer used
+805 Serial publications
+806 Organizations
+807 Education, research, related topics
+808 Rhetoric & collections of literature
+809 Literary history & criticism
+810-818 – for UIUC Practices see this link
+810 American literature in English
+811 Poetry
+812 Drama
+813 Fiction
+814 Essays
+815 Speeches
+816 Letters
+817 Satire & humor
+818 Miscellaneous writings
+819 Not used
+820-829
+820 English & Old English literatures
+821 English poetry
+822 English drama
+823 English fiction
+824 English essays
+825 English speeches
+826 English letters
+827 English satire & humor
+828 English miscellaneous writings
+829 Old English (Anglo-Saxon)
+30 Literatures of Germanic languages
+831 Early to 1517
+832 Reformation, etc.  1517-1750
+833 Classic period,  1750-1830
+834 Post classic & modern,  1830-1940/50
+835 Contemporary authors not already established in the UIUC catalog,  1940/50-
+836 German dialect literature
+837 German-American
+838 German miscellaneous writings
+839 Other Germanic literatures
+840 Literatures of Romance languages
+841 Old and early French to 1400
+842 Transition & renaissance periods, 1400-1600
+843 Classical period, 1600-1715
+844 18 th Century, 1715-1789
+845 Revolution to present, 1789-1940/50
+846 Contemporary authors not already established in the UIUC Catalog, 1940/50-
+847 French Canadian
+848 Provencal
+849 French dialect literature
+850 Italian, Romanian, Rhaeto-Romanic
+851 Early period to 1375
+852 Classical learning, 1375-1492
+853 1492-1585
+854 1585-1814
+855 1814-1940/50
+856 Works in and/or about Italian dialects
+857 Sardinian
+858 Romanian (including Wallachian)
+859 Rumansh, Rhastian, Rhaeto-Romanic, Moldavian
+860 Spanish & Portuguese literatures
+861 Early to 1400
+862 1400-1553
+863 Golden age, 1554-1700
+864 1700-1800
+865 1800-
+866 Works in and/or about Iberian dialects other than Castilian, Catalan and Portuguese, including Asturian/Bable, Aragonese, Navarrese, Ladino, Sephardic, Morisco, Aljamia
+867 Catalan
+868 Portuguese
+869 South/Central American Literature
+870-889
+870 General works on Latin literature
+871 Latin Authors
+872 Collections of Latin prose or poetry
+873 Not Used
+874 Not Used
+875 Medieval and modern Latin literature, 500 A.D. – date
+876 Not Used
+877 Not Used
+878 Not Used
+879 Classical literature-History and criticism
+880 Hellenic literatures Classical Greek
+881 Greek Authors
+882 Collections of Greek prose or poetry
+883 Not Used
+884 Not Used
+885 Modern Literature in the Ancient Greek Language
+886 Not Used
+887 Not Used
+888 Not Used
+889 Literature in Medieval and Modern Greek
+890-891.49 Indic Literature
+891.5 Iranian/Persian Literature
+891.6 Celtic/Gaelic Literature
+891.7 Slavic and Baltic Literatures
+892-894 Afro-Asiatic Literature (Hamito-Semitic)
+895-896 Literature in East Asian and African Languages
+897-898 North and South American Native Languages
+899 Other Literatures

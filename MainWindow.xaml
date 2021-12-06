@@ -20,7 +20,7 @@
             <Label Grid.Row="1" x:Name="lbName" Content="What would you like to do?" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
             <Button Grid.Row="2" x:Name="btReplacing" Content="Replacing books" Height="30" Width="200" Margin="10,0" Click="btReplacing_Click" FontSize="16"/>
             <Button Grid.Row="3" x:Name="btIndentify" Content="Identify areas" Height="30" Width="200" Margin="10,0" Click="btIndentify_Click" FontSize="16" />
-            <Button Grid.Row="4" x:Name="btFinding" Content="Finding calling number" Height="30" Width="200" Margin="10,0" Click="btFinding_Click" FontSize="16" IsEnabled="False"/>
+            <Button Grid.Row="4" x:Name="btFinding" Content="Finding calling number" Height="30" Width="200" Margin="10,0" Click="btFinding_Click" FontSize="16"/>
 
         </Grid>
     </Grid>

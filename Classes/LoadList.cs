@@ -49,12 +49,12 @@ namespace testing.Classes
             if(questioNo %2 == 0)
             {
                 more = true;
-                callList = addCallList(someList,more);
+                //callList = addCallList(someList,more);
             }
             else
             {
                 more = true;
-                callList = addCallList(someList, more);
+                //callList = addCallList(someList, more);
             }
             return callList;
         }

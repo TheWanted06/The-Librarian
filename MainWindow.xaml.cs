@@ -41,7 +41,9 @@ namespace testing
 
         private void btFinding_Click(object sender, RoutedEventArgs e)
         {
-
+            Finding_Call_Number finding_Call_ = new Finding_Call_Number();
+            finding_Call_.Show();
+            this.Hide();
         }
     }
 }

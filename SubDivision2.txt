@@ -1,0 +1,100 @@
+200 Religion
+201 Philosophy of Christianity
+202 Miscellany of Christianity
+203 Dictionaries of Christianity
+204 Special topics
+205 Serial publications of Christianity
+206 Organizations of Christianity
+207 Education, research in Christianity
+208 Kinds of persons in Christianity
+209 History & geography of Christianity
+210 Natural theology
+211 Concepts of God
+212 Existence, attributes of God
+213 Creation
+214 Theodicy
+215 Science & religion
+216 Good & evil
+217 Not assigned or no longer used
+218 Humankind
+219 Not assigned or no longer used
+220 Bible
+221 Old Testament
+222 Historical books of Old Testament
+223 Poetic books of Old Testament
+224 Prophetic books of Old Testament
+225 New Testament
+226 Gospels & Acts
+227 Epistles
+228 Revelation (Apocalypse)
+229 Apocrypha & pseudepigrapha
+230 Christian theology
+231 God
+232 Jesus Christ & his family
+233 Humankind
+234 Salvation (Soteriology) & grace
+235 Spiritual beings
+236 Eschatology
+237 Not assigned or no longer used
+238 Creeds & catechisms
+239 Apologetics & polemics
+240 Christian moral & devotional theology
+241 Moral theology
+242 Devotional literature
+243 Evangelistic writings for individuals
+244 Not assigned or no longer used
+245 Texts of hymns
+246 Use of art in Christianity
+247 Church furnishings & articles
+248 Christian experience, practice, life
+249 Christian observances in family life
+250 Christian orders & local church
+251 Preaching (Homiletics)
+252 Texts of sermons
+253 Pastoral office (Pastoral theology)
+254 Parish government & administration
+255 Religious congregations & orders
+256 Not assigned or no longer used
+257 Not assigned or no longer used
+258 Not assigned or no longer used
+259 Activities of the local church
+260 Christian social theology
+261 Social theology
+262 Ecclesiology
+263 Times, places of religious observance
+264 Public worship
+265 Sacraments, other rites & acts
+266 Missions
+267 Associations for religious work
+268 Religious education
+269 Spiritual renewal
+270 Christian church history
+271 Religious orders in church history
+272 Persecutions in church history
+273 Heresies in church history
+274 Christian church in Europe
+275 Christian church in Asia
+276 Christian church in Africa
+277 Christian church in North America
+278 Christian church in South America
+279 Christian church in other areas
+280 Christian denominations & sects
+281 Early church & Eastern churches
+282 Roman Catholic Church
+283 Anglican churches
+284 Protestants of Continental origin
+285 Presbyterian, Reformed, Congregational
+286 Baptist, Disciples of Christ, Adventist
+287 Methodist & related churches
+288 Not assigned or no longer used
+289 Other denominations & sects
+290 Other & comparative religions
+291 Comparative religion
+292 Classical (Greek & Roman) religion
+293 Germanic religion
+294 Religions of Indic origin
+295 Zoroastrianism (Mazdaism, Parseeism)
+296 Judaism
+297 Islam & religions originating in it
+298 Not assigned or no longer used
+299 Other religions

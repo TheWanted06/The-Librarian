@@ -1,0 +1,101 @@
+900 Geography & history
+901 Philosophy & theory
+902 Miscellany
+903 Dictionaries & encyclopedias
+904 Collected accounts of events
+905 Serial publications
+906 Organizations & management
+907 Education, research, related topics
+908 With respect to kinds of persons
+909 World history
+910 Geography & travel
+911 Historical geography
+912 Graphic representations of earth
+913 Ancient world
+914 Europe
+915 Asia
+916 Africa
+917 North America
+918 South America
+919 Other areas
+920 Biography, genealogy, insignia
+921 Not assigned or no longer used
+922 Not assigned or no longer used
+923 Not assigned or no longer used
+924 Not assigned or no longer used
+925 Not assigned or no longer used
+926 Not assigned or no longer used
+927 Not assigned or no longer used
+928 Not assigned or no longer used
+929 Genealogy, names, insignia
+930 History of ancient world
+931 History of ancient world China
+932 History of ancient world Egypt
+933 History of ancient world Palestine
+934 History of ancient world India
+935 History of ancient world Mesopotamia & Iranian Plateau
+936 History of ancient world Europe north & west of Italy
+937 History of ancient world Italy & adjacent territories
+938 History of ancient world Greece
+939 History of ancient world Other parts of ancient world
+940 General history of Europe
+941 General history of Europe British Isles
+942 General history of Europe England & Wales
+943 General history of Europe Central Europe Germany
+944 General history of Europe France & Monaco
+945 General history of Europe Italian Peninsula & adjacent islands
+946 General history of Europe Iberian Peninsula & adjacent islands
+947 General history of Europe Eastern Europe Soviet Union
+948 General history of Europe Northern Europe Scandinavia
+949 General history of Europe Other parts of Europe
+950 General history of Asia Far East
+951 General history of Asia China & adjacent areas
+952 General history of Asia Japan
+953 General history of Asia Arabian Peninsula & adjacent areas
+954 General history of Asia South Asia India
+955 General history of Asia Iran
+956 General history of Asia Middle East (Near East)
+957 General history of Asia Siberia (Asiatic Russia)
+958 General history of Asia Central Asia
+959 General history of Asia Southeast Asia
+960 General history of Africa
+961 General history of Africa Tunisia & Libya
+962 General history of Africa Egypt & Sudan
+963 General history of Africa Ethiopia
+964 General history of Africa Morocco & Canary Islands
+965 General history of Africa Algeria
+966 General history of Africa West Africa & offshore islands
+967 General history of Africa Central Africa & offshore islands
+968 General history of Africa Southern Africa
+969 General history of Africa South Indian Ocean islands
+970 General history of North America
+971 General history of North America Canada
+972 General history of North America Middle America Mexico
+973 General history of North America United States
+973.7 L63 Used for Abraham Lincoln works
+974 General history of North America Northeastern United States
+975 General history of North America Southeastern United States
+976 General history of North America South central United States
+977 General history of North America North central United States
+978 General history of North America Western United States
+979 General history of North America Great Basin & Pacific Slope
+980 General history of South America
+981 General history of South America Brazil
+982 General history of South America Argentina
+983 General history of South America Chile
+984 General history of South America Bolivia
+985 General history of South America Peru
+986 General history of South America Colombia & Ecuador
+987 General history of South America Venezuela
+988 General history of South America Guiana
+989 General history of South America Paraguay & Uruguay
+990 General history of other areas
+991 Not assigned or no longer used
+992 Not assigned or no longer used
+993 General history of other areas New Zealand
+994 General history of other areas Australia
+995 General history of other areas Melanesia New Guinea
+996 General history of other areas Other parts of Pacific Polynesia
+997 General history of other areas Atlantic Ocean islands
+998 General history of other areas Arctic islands & Antarctica
+999 Extraterrestrial worlds

@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="Replace_books" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid  Background="Bisque">
+        <Button x:Name="btnBack" Content="Back" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,10,0,0"/>
         <Grid Margin="50" Background="White">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>

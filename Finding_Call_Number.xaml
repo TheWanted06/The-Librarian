@@ -5,11 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:testing"
         mc:Ignorable="d"
-        Title="Finding_Call_Number" Height="387" Width="528" WindowStartupLocation="CenterScreen">
+        Title="Finding_Call_Number" Height="400" Width="528" WindowStartupLocation="CenterScreen">
     <Grid Background="Bisque">
-        <Button x:Name="btnBack" Content="Back" Width="50" Height="30" Click="btnBack_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,20,0,0"/>
-        <Label x:Name="time_text" Content="Choose a calling number for the description " FontSize="18" HorizontalAlignment="Center" Margin="0,40,0,0"/>
-        <Grid Height="275" Width="300" Background="White">
+        <Button x:Name="btnBack" Content="Back" Width="50" Height="30" Click="btnBack_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,15,0,0"/>
+        <Grid Height="275" Width="400" Background="White">
             <Grid.RowDefinitions>
                 <RowDefinition Height="30"/>
                 <RowDefinition Height="30"/>

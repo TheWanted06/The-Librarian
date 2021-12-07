@@ -75,7 +75,6 @@
     <Compile Include="Classes\generate.cs" />
     <Compile Include="Classes\LoadList.cs" />
     <Compile Include="Classes\StopWatch.cs" />
-    <Compile Include="Classes\Timer.cs" />
     <Compile Include="Classes\Tree.cs" />
     <Compile Include="Finding_Call_Number.xaml.cs">
       <DependentUpon>Finding_Call_Number.xaml</DependentUpon>

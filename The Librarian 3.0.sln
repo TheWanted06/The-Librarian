@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Librarian 3.0", "The Librarian 3.0.csproj", "{2246DB82-ECC2-463C-BEDB-B3A41843B5D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2246DB82-ECC2-463C-BEDB-B3A41843B5D3}.Debug|x86.ActiveCfg = Debug|x86
+		{2246DB82-ECC2-463C-BEDB-B3A41843B5D3}.Debug|x86.Build.0 = Debug|x86
+		{2246DB82-ECC2-463C-BEDB-B3A41843B5D3}.Release|x86.ActiveCfg = Release|x86
+		{2246DB82-ECC2-463C-BEDB-B3A41843B5D3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB29BF7D-8AD6-4033-812D-DBFBB3175CFB}
+	EndGlobalSection
+EndGlobal
